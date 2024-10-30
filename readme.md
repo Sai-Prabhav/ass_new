@@ -56,14 +56,10 @@ digit_count(1231, 1)
 
 
 
-```python
-
-```
 
 
-```python
 
-```
+
 
 ## Problem 2: Despace
 
@@ -93,14 +89,10 @@ despace('  hell\to   \nworld  ')
 
 
 
-```python
-
-```
 
 
-```python
 
-```
+
 
 
 
@@ -136,14 +128,10 @@ reverse_words('he llo w orld')
 
 
 
-```python
-
-```
 
 
-```python
 
-```
+
 
 ## Problem 4: Multiple of 3 and 5
 
@@ -162,19 +150,13 @@ print(sum(map(lambda x: x if x % 3 == 0 or x % 5 == 0 else 0,range(1000))))
 
 
 
-```python
-
-```
 
 
-```python
-
-```
 
 
-```python
 
-```
+
+
 
 ## Problem 5: Generate Password
 
@@ -211,14 +193,10 @@ generate_password(100)
 
 
 
-```python
-
-```
 
 
-```python
 
-```
+
 
 ## Problem 6: Fortune
 
@@ -305,9 +283,7 @@ print(__import__('random').choice(open('fortune.txt').read().split('%')))
 
 
 
-```python
 
-```
 
 ## Problem 7 : Countdown
 
@@ -355,14 +331,10 @@ print("\n".join(map(str, list(range(int(__import__('sys').argv[1]), 0, -1)))))
 
 
 
-```python
-
-```
 
 
-```python
 
-```
+
 
 ## Problem 8: Largest Number in a File
 
@@ -433,9 +405,7 @@ larges_number_in_file('numbers.txt')
 
 
 
-```python
 
-```
 
 ## Problem 9: Plot $y = x^2$ and $y = 2^x$
 
@@ -469,14 +439,10 @@ plt.show()
 
 
 
-```python
-
-```
 
 
-```python
 
-```
+
 
 ## Problem 10: Manhattan Distance
 
@@ -517,11 +483,7 @@ manhanttan_distance(np.array([0,0]), np.array([3, 4]))
 
 
 
-```python
-
-```
 
 
-```python
 
-```
+
